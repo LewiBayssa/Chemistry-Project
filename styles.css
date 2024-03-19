@@ -28,7 +28,7 @@ header h1 {
     top: 0;
     z-index: 1;
     width: 100%;
-    background-color: #064a27;
+    background-color: #fcb13c;
     color: #fff;
   }
   
@@ -40,7 +40,7 @@ header h1 {
   
   .progress-bar {
     height: 5px;
-    background: #100e5a;
+    background: #e34335;
     width: 0%;
   }
 
@@ -376,7 +376,7 @@ main {
 
 .initiative-image {
     grid-column: 4 / -1;
-    height: 30vh;
+    height: 35vh;
     border-inline-start: var(--border);
 }
 
